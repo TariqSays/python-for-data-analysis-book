@@ -1,5 +1,5 @@
 # wes-mckinney-python-for-data-analysis     
-#### data wrangling with pandas, numpy, and ipython            
+#### data wrangling with pandas, numpy, and ipython                   
 - [X] Chapter 5
 ### Getting Started with pandas  
 - [X] Chapter 6   
