@@ -6,7 +6,7 @@
 ### Data Loading, Storage, and File Formats  
 - [X] Chapter 7
 ### Data Cleaning and Preparation      
-- [X] Chapter 8   
+- [X] Chapter 8                 
 ### Data Wrangling: Join, Combine, and Reshape  
   
  
